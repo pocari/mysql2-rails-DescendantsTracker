@@ -1,3 +1,6 @@
+# test script
+https://github.com/pocari/mysql2-rails-DescendantsTracker/blob/master/bin/run.sh
+
 # if there is no ridgepole, it is working
 
 ```
