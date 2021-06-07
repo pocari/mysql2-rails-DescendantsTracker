@@ -1,4 +1,4 @@
-# if there is no ridgepole, it is not working
+# if there is no ridgepole, it is working
 
 ```
 docker-compose run --service-port rails
