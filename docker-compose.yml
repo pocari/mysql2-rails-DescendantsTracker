@@ -7,7 +7,7 @@ services:
       MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
   rails:
     image: ruby:3.0.1
-    command: tail -f /dev/null
+    command: bin/run.sh
     working_dir: /sample
     volumes:
       - .:/sample
